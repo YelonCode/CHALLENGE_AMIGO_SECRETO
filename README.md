@@ -2,7 +2,7 @@
 
 Un pequeño juego hecho con **HTML, CSS y JavaScript** que permite a los usuarios agregar nombres a una lista y realizar un sorteo aleatorio para elegir un *amigo secreto*.
 
-## 🚀 Demo
+## Pantalla principal
 ![Captura de pantalla](P1.png)
 
 ## ✨ Características
@@ -22,3 +22,4 @@ Un pequeño juego hecho con **HTML, CSS y JavaScript** que permite a los usuario
 3. Escribe nombres en el campo de texto y presiona "Añadir".
 4. Cuando tengas varios nombres, haz clic en "Sortear Amigo".
 5. El nombre sorteado aparecerá en pantalla.
+
